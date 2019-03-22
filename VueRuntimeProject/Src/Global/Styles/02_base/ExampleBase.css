@@ -1,0 +1,10 @@
+﻿
+/*This file should be used for site wide tag and class styles*/
+
+body {
+    background-color: pink;
+}
+
+h1 {
+    text-decoration: underline;
+}

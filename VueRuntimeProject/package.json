@@ -1,0 +1,23 @@
+{
+  "name": "VueRuntimeProject",
+  "version": "1.0.0",
+  "description": "Project setup for runtime vue and razor pages",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.dev.config.js"
+  },
+  "author": "TV",
+  "license": "MIT",
+  "devDependencies": {
+    "vue": "^2.5.21",
+    "webpack": "^4.28.3",
+    "webpack-hot-middleware": "^2.24.3",
+    "aspnet-webpack": "^3.0.0",
+    "webpack-dev-middleware": "^3.5.0",
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.3",
+    "babel-loader": "^8.0.5",
+    "css-loader": "^2.1.0",
+    "style-loader": "^0.23.1"
+  }
+}

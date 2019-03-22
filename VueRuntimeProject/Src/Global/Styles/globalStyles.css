@@ -1,0 +1,11 @@
+﻿
+/*This file should be used as the global .css file for the project*/
+
+/* 00_lib */
+@import url("00_library/normalize.css");
+
+/* 01_variables */
+@import url("01_variables/exampleVariables.css");
+
+/* 02_base */
+@import url("02_base/ExampleBase.css");
